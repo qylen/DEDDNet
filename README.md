@@ -1,5 +1,5 @@
 # DEDDNet
-the code of Learning Depth Information for Defocus Deblurring
+the code of paper of EFFICIENT FUSION OF DEPTH INFORMATION FOR DEFOCUS DEBLURRING-ICASSP2024
 
 The link to the pre-trained model of DEDDNet is:
 https://drive.google.com/file/d/1DnVfActIucVEVyZw0rX3Mdx7-K4mYRvt/view?usp=sharing
@@ -16,3 +16,5 @@ for testing, modify \option\test\Deblur_Dataset_Test.yaml for your dataset. Run 
 
 for training, modify \option\test\Defocus_GAN_Trained.yaml for your dataset.
 And then you can use train_finalD.py for training
+
+
