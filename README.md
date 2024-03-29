@@ -18,3 +18,6 @@ for training, modify \option\test\Defocus_GAN_Trained.yaml for your dataset.
 And then you can use train_finalD.py for training
 
 
+# Acknowledgement
+
+We acknowledge the researcher of MDPNet, DPDDNet, BaMBNet.
